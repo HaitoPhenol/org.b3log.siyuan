@@ -50,8 +50,8 @@ modules:
       - type: archive
         dest: siyuan
         only-arches: [x86_64]
-        url: https://github.com/siyuan-note/siyuan/releases/download/v3.8.1/siyuan-3.8.1-linux.tar.gz
-        sha256: 79648ce60e403ff8a440293a02e51e1cd34e58a90492055177543676c515e5ea
+        url: https://github.com/siyuan-note/siyuan/releases/download/v3.8.2/siyuan-3.8.2-linux.tar.gz
+        sha256: c048956888852396654b808427f16f82e6787fc617117af527e576cb3479b17e
         x-checker-data:
           is-main-source: true
           type: anitya
